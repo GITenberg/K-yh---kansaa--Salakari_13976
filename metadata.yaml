@@ -18,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Minna_Canth
     - http://fi.wikipedia.org/wiki/Minna_Canth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13976#K-yh---kansaa--Salakari
 gutenberg_issued: '2004-11-08'
 gutenberg_type: Text
 identifiers:
